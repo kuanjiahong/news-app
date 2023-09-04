@@ -1,25 +1,29 @@
 ## News-app
 
 This app is based on the Chirper app tutorial
+
 Link: https://bootcamp.laravel.com/introduction
 
 Tech stack
-Docker
-Laravel Framework version 10.21.0
-MySQL Database
+- Docker
+- Laravel Framework version 10.21.0
+- MySQL Database
 
 # Set up
 Make sure Docker is installed and running
+
 Start the container: `./vendor/bin/sail up`
+
 Visit the website at: http://localhost
 
 Populate database: `./vendor/bin/sail artisan migrate`
+
 Visit the tables created at database `news_app`
 
 Register a user:
-username: jiahonguser
-email: jiahonguser@example.com
-password: jiahonguser123
+- username: jiahonguser
+- email: jiahonguser@example.com
+- password: jiahonguser123
 
 # Laravel package used
 - Breeze
