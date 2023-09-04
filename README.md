@@ -1,4 +1,8 @@
 ## News-app
+
+This app is based on the Chirper app tutorial
+Link: https://bootcamp.laravel.com/introduction
+
 Tech stack
 Docker
 Laravel Framework version 10.21.0
