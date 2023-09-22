@@ -2,7 +2,6 @@
 
 This app is based on the Chirper app tutorial
 
-Testing webhook
 
 Link: https://bootcamp.laravel.com/introduction
 
